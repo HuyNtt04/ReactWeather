@@ -7,8 +7,9 @@
 ✅ Icon thời tiết trực quan<br>
 ✅ Hiển thị thông tin chi tiết thời tiết<br>
 </div>
+<br>
 <blockquote>
-  ⚠️ <strong>Lưu ý:</strong> Đây là một dự án được clone lại cho mục đích học tập.<br>
+   <strong>Lưu ý:</strong> Đây là một dự án được clone lại cho mục đích học tập.<br>
 </blockquote>
 
 
